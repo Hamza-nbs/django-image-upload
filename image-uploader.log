@@ -1,0 +1,8 @@
+Successfully got following form data:
+{}
+Uploading failed with following errors:
+{'non_field_errors': [ErrorDetail(string='Either large_image and\\or small_image or web_images should be provided', code='invalid')]}
+Successfully got following form data:
+<QueryDict: {'large_image': [<InMemoryUploadedFile: 2560px-Gunicorn_logo_2010.svg.png (image/png)>]}>
+Uploading failed with following errors:
+{'non_field_errors': [ErrorDetail(string='To upload acumatica image inventory_id should be provided', code='invalid')]}
